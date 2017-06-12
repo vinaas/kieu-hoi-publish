@@ -2,8 +2,8 @@
     "name": "Test Application",
     "version": "1.2",
     "api": {
-        "key": "somekey",
-        "endpoint": "http://www.google.com/"
+        "API_KEY": "mhV8y4okj96xa5Tg5ds95ebn460r0A2dl",
+        "endpoint": "http://apikieuhoi.easyadmincp.com"
     },
     "local": {
         "key": "somekey",
