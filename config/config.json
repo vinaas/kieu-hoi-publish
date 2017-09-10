@@ -3,7 +3,7 @@
     "version": "1.2",
     "api": {
         "API_KEY": "mhV8y4okj96xa5Tg5ds95ebn460r0A2dl",
-        "endpoint": "http://apikieuhoi.ocb.com"
+        "endpoint": "http://localhost:56120/"
     },
     "local": {
         "key": "somekey",
