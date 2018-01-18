@@ -1,0 +1,12 @@
+{
+    "name": "Test Application",
+    "version": "1.2",
+    "api": {
+        "API_KEY": "mhV8y4okj96xa5Tg5ds95ebn460r0A2dl",
+        "endpoint": "http://apikieuhoi.vinaas.com"
+    },
+    "local": {
+        "key": "somekey",
+        "endpoint": "https://localhost:9000/storages/"
+    }
+}
