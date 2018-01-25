@@ -1,1 +1,1 @@
-CKEDITOR.plugins.setLang("notification","az",{closed:"Xəbərdarlıq pəncərəsi bağlanıb"});
+﻿CKEDITOR.plugins.setLang("notification","az",{closed:"Xəbərdarlıq pəncərəsi bağlanıb"});
